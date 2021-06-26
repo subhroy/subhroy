@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subhroy
-- 👀 I’m interested in Java and experinced with J2ee and ORM and Spring framworks.
+- 👀 I’m experinced with Java & J2ee, Design Patterns, Object Relational Mapping and Spring framworks and RDBMS.
 - 🌱 I’m currently working on Microservice Architecture, System Design, JVM Memory Management, AWS and Cloud.
 - 💞️ I’m looking to collaborate on different technical aspects, open source products, new tech learnings.
 - 📫 How to reach me : jstsubhasis@gmail.com
