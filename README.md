@@ -1,10 +1,12 @@
-### About me
+### About me:
 - 👋 Hi, I’m Subhasis Roy.
 - 👀 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle.
 - 🌱 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
 - 💞️ I’m looking to collaborate on different technical aspects, open source products, new tech learnings.
-- 📫 How to reach me : subhasis.it@gmail.com
-- 📈 my github stats
+- 📫 How to reach me : [Email](subhasis.it@gmail.com)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
+
+---
 
 ### Quick stats
 | Github Stats | Top Languages |
