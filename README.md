@@ -18,7 +18,7 @@ subhroy/subhroy is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Techstack I work on:
+### Techstack:
 
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
