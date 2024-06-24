@@ -61,8 +61,8 @@ https://shields.io/badges/git-hub-followers
 https://github.com/simple-icons/simple-icons/blob/master/icons/
 https://github.com/simple-icons/simple-icons/blob/master/icons/hackerrank.svg
 https://simpleicons.org/
+https://www.vectorlogo.zone/logos
 -->
-
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhroy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
