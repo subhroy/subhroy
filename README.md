@@ -1,3 +1,7 @@
+<!-- 
+Copyright (c) 2004 Subhasis Roy - All Rights Reserved
+Unauthorized copying or redistribution of this file in source and binary forms via any medium is strictly prohibited.
+-->
 ### About me:
 - 👋 Hi, I’m Subhasis Roy.
 - 👀 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle.
@@ -42,7 +46,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
-
 
 
 
