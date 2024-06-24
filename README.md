@@ -2,13 +2,16 @@
 Copyright (c) 2004 Subhasis Roy - All Rights Reserved
 Unauthorized copying or redistribution of this file in source and binary forms via any medium is strictly prohibited.
 -->
+<!---
+subhroy/subhroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ### About me:
 - 👋 Hi, I’m Subhasis Roy.
-- 👀 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle.
-- 🌱 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
-- 💞️ I’m looking to collaborate on different technical aspects, open source products, new tech learnings.
-- 📫 How to reach me : [Email](subhasis.it@gmail.com)
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
+- 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
+- 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
+- 📧 How to reach me : [Email](subhasis.it@gmail.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
 ---
 
@@ -17,10 +20,12 @@ Unauthorized copying or redistribution of this file in source and binary forms v
 | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
 
-<!---
-subhroy/subhroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub all releases](https://img.shields.io/github/downloads/{subhroy}/{repo-name}/total)
+![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
+![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
 
 ---
 ### Tech Blog Posts
@@ -53,5 +58,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
-
+>
+`Copyright &copy; 2004 Subhasis Roy - All Rights Reserved`
 
