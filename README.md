@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
 - 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
 - 📧 How to reach me : [Email](subhasis.it@gmail.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
+- 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
 ---
 
@@ -21,13 +21,14 @@ You can click the Preview link to take a look at your changes.
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
 
 ![GitHub all releases](https://img.shields.io/github/downloads/subhroy/hackerrank-exercises/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
 ![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
+![pv](https://pageview.vercel.app/?github_user=subhroy)
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
-![pv](https://pageview.vercel.app/?github_user=subhroy)
+
 
 
 ---
