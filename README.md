@@ -58,6 +58,3 @@ You can click the Preview link to take a look at your changes.
       <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
->
-`Copyright &copy; 2004 Subhasis Roy - All Rights Reserved`
-
