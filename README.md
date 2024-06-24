@@ -1,12 +1,12 @@
 <!-- 
 Copyright (c) 2004 Subhasis Roy - All Rights Reserved
-Unauthorized copying or redistribution of this file in source and binary forms via any medium is strictly prohibited.
+Unauthorized copying or redistribution of this README file in source and binary forms via any medium is strictly prohibited.
 -->
 <!---
 subhroy/subhroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### About me:
+### About me
 - 👋 Hi, I’m Subhasis Roy.
 - 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
 - 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Quick stats:
+### Quick stats
 | Github Stats | Top Languages |
 | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
@@ -24,11 +24,16 @@ You can click the Preview link to take a look at your changes.
 ![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
 ![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
 ![pv](https://pageview.vercel.app/?github_user=subhroy)
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
-
+<a href="https://stackoverflow.com/users/13646081">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow">
+</a>
+<!-- Not used...
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
+-->
 
 
 ---
@@ -39,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG_END -->
 ---
 
-### Techstack:
+### Tech stack
 
 <p align="left">
       <img src="https://github.com/subhroy/icons/blob/master/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
@@ -62,3 +67,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github.com/subhroy/icons/blob/master/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
+---
+<a href="https://github.com/subhroy" alt="https://github.com/subhroy"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=subhasis&color=000000"></a>
+<a href="https://github.com/subhroy/subhroy/blob/main/LICENSE" alt="https://github.com/subhroy/subhroy/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
