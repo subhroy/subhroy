@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 | --- | --- |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
 
-![GitHub all releases](https://img.shields.io/github/downloads/{subhroy}/{repo-name}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{username}/{repo-name})
-![GitHub forks](https://img.shields.io/github/forks/{username}/{repo-name}?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/{username}/{repo-name}?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/subhroy/hackerrank-exercises/total)
+![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
+![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
+![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
 
 ---
 ### Tech Blog Posts
