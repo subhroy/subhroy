@@ -18,7 +18,28 @@ You can click the Preview link to take a look at your changes.
 ### Quick stats
 | Github Stats | Top Languages |
 | --- | --- |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
+
+<!--
+![Top Langs11](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&layout=donut-vertical)](https://github.com/subhroy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&layout=pie)](https://github.com/subhroy/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&hide_progress=true)
+-->
+<!--
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=subhroy)](https://github.com/subhroy/github-readme-stats)
+-->
+
+
+<!-- code to show used language stats
+ <div align=center>
+    <a href="https://github.com/subhroy/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+</div>
+<br>
+-->
 
 ![GitHub all releases](https://img.shields.io/github/downloads/subhroy/hackerrank-exercises/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
@@ -35,6 +56,8 @@ You can click the Preview link to take a look at your changes.
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 -->
 
+---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhroy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 ### Tech Blog Posts
