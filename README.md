@@ -26,6 +26,9 @@ You can click the Preview link to take a look at your changes.
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
+![pv](https://pageview.vercel.app/?github_user=subhroy)
+
 
 ---
 ### Tech Blog Posts
@@ -38,23 +41,23 @@ You can click the Preview link to take a look at your changes.
 ### Techstack:
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/java-icon.svg" alt="java" width="48" height="48"/> 
+      <img src="https://github.com/subhroy/icons/blob/master/springio-icon.svg" alt="spring" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
+      <img src="https://github.com/subhroy/icons/blob/master/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/docker-official.svg" alt="docker" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/openshift-icon.svg" alt="openshift" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
+      <img src="https://github.com/subhroy/icons/blob/master/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/splunk-icon.svg" alt="splunk" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/python-icon.svg" alt="python" width="40" height="40"/>
+      <img src="https://github.com/subhroy/icons/blob/master/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
