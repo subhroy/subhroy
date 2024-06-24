@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
 <a href="https://stackoverflow.com/users/13646081"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow"></a>
-<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green&label=reputation"></a>
+<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green?logo=hackerrank"></a>
 <!-- Not used...
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
 ![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
@@ -56,12 +56,18 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <!--Reference:
-https://shields.io/badges
-https://shields.io/badges/git-hub-followers
 https://github.com/simple-icons/simple-icons/blob/master/icons/
 https://github.com/simple-icons/simple-icons/blob/master/icons/hackerrank.svg
 https://simpleicons.org/
 https://www.vectorlogo.zone/logos
+
+https://shields.io/badges
+https://shields.io/badges/git-hub-followers
+https://shields.io/docs/logos#logocolor-parameter
+https://shields.io/docs/logos
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md  => From here logo values has been taken
+https://img.shields.io/badge/Hackerrank-228B22
+https://img.shields.io/badge/hacker-rank-green?logo=hackerrank
 -->
 
 ---
