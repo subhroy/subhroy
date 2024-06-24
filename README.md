@@ -46,18 +46,23 @@ You can click the Preview link to take a look at your changes.
 ![pv](https://pageview.vercel.app/?github_user=subhroy)
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
-<a href="https://stackoverflow.com/users/13646081">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow">
-</a>
-<a href="https://www.hackerrank.com/profile/subhasis_it">
-    <img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green&label=reputation&logo=stackoverflow">
-</a>
+<a href="https://stackoverflow.com/users/13646081"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow"></a>
+<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green&label=reputation"></a>
 <!-- Not used...
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
 ![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 -->
+
+<!--Reference:
+https://shields.io/badges
+https://shields.io/badges/git-hub-followers
+https://github.com/simple-icons/simple-icons/blob/master/icons/
+https://github.com/simple-icons/simple-icons/blob/master/icons/hackerrank.svg
+https://simpleicons.org/
+-->
+
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhroy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -73,24 +78,24 @@ You can click the Preview link to take a look at your changes.
 ### Tech stack
 
 <p align="left">
-      <img src="/icons/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
-      <img src="/icons/java-icon.svg" alt="java" width="48" height="48"/> 
-      <img src="/icons/springio-icon.svg" alt="spring" width="40" height="40"/>
-      <img src="/icons/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-      <img src="/icons/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
-      <img src="/icons/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      <img src="/icons/docker-official.svg" alt="docker" width="40" height="40"/>
-      <img src="/icons/openshift-icon.svg" alt="openshift" width="40" height="40"/>
-      <img src="/icons/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
-      <img src="/icons/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-      <img src="/icons/splunk-icon.svg" alt="splunk" width="40" height="40"/>
-      <img src="/icons/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
-      <img src="/icons/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-      <img src="/icons/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-      <img src="/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-      <img src="/icons/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-      <img src="/icons/python-icon.svg" alt="python" width="40" height="40"/>
-      <img src="/icons/redis-icon.svg" alt="redis" width="40" height="40"/>
+      <img src="icons/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
+      <img src="icons/java-icon.svg" alt="java" width="48" height="48"/> 
+      <img src="icons/springio-icon.svg" alt="spring" width="40" height="40"/>
+      <img src="icons/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+      <img src="icons/amazon_aws-icon.svg" alt="amazonaws" width="40" height="40"/>   
+      <img src="icons/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      <img src="icons/docker-official.svg" alt="docker" width="40" height="40"/>
+      <img src="icons/openshift-icon.svg" alt="openshift" width="40" height="40"/>
+      <img src="icons/nodejs-icon.svg" alt="Nodejs" width="50" height="40"/>            
+      <img src="icons/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+      <img src="icons/splunk-icon.svg" alt="splunk" width="40" height="40"/>
+      <img src="icons/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
+      <img src="icons/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      <img src="icons/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
+      <img src="icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+      <img src="icons/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+      <img src="icons/python-icon.svg" alt="python" width="40" height="40"/>
+      <img src="icons/redis-icon.svg" alt="redis" width="40" height="40"/>
 </p>
 
 ---
