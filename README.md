@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://stackoverflow.com/users/13646081"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow"></a>
 <a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green?logo=hackerrank"></a>
 <!-- Not used...
+![Stack Exchange2](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
 ![GitHub top language](https://img.shields.io/github/languages/top/subhroy/hackerrank-exercises?color=yellow)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/subhroy/hackerrank-exercises)
