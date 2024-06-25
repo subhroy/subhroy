@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
 <a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
-<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
+<a href="https://www.hackerrank.com/profile/roysubhasis"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
 <!-- Not used...
 ![Stack Exchange2](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
