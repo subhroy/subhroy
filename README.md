@@ -22,6 +22,17 @@ You can click the Preview link to take a look at your changes.
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=subhroy&show_icons=true&theme=gotham) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&show_icons=true&theme=gotham) |
 
 <!--
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roysubhasis&layout=compact&hide_title=1&show_icons=true&theme=gotham" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+-->
+
+
+<!--
 ![Top Langs11](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhroy&layout=donut-vertical)](https://github.com/subhroy/github-readme-stats)
