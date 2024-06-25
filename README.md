@@ -41,11 +41,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 -->
 
-![GitHub all releases](https://img.shields.io/github/downloads/subhroy/hackerrank-exercises/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/hackerrank-exercises)
+![GitHub all releases](https://img.shields.io/github/downloads/subhroy/development-roadmap/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/subhroy/development-roadmap)
 ![pv](https://pageview.vercel.app/?github_user=subhroy)
-![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
+![GitHub forks](https://img.shields.io/github/forks/subhroy/development-roadmap?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/development-roadmap?style=social)
 <a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
 <a href="https://www.hackerrank.com/profile/roysubhasis"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
 <!-- Not used...
