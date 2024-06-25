@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Subhasis Roy.
 - 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
 - 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
-- 📧 How to reach me : [Email](subhasis.it@gmail.com)
+- 📧 Reach me @[Email](subhasis.it@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 
 ---
@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
 ![pv](https://pageview.vercel.app/?github_user=subhroy)
 ![GitHub forks](https://img.shields.io/github/forks/subhroy/hackerrank-exercises?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/subhroy/hackerrank-exercises?style=social)
-<a href="https://stackoverflow.com/users/13646081"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow"></a>
-<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/hacker-rank-green?logo=hackerrank"></a>
+<a href="https://stackoverflow.com/users/13646081"><img alt="StackExchangeReputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=Stack Exchange&logo=stackoverflow"></a>
+<a href="https://www.hackerrank.com/profile/subhasis_it"><img alt="HackerRank Profile" src="https://img.shields.io/badge/Hacker-Rank-green?logo=hackerrank"></a>
 <!-- Not used...
 ![Stack Exchange2](https://img.shields.io/stackexchange/stackoverflow/r/13646081?color=orange&label=reputation&logo=stackoverflow)
 ![GitHub language count](https://img.shields.io/github/languages/count/subhroy/hackerrank-exercises)
