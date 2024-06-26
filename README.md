@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!--
 - 🏆 I’m experienced with Java , Microservices, Design Patterns, SOLID Principle, DevOps.
 - 💻 I’m currently working on Azure DevOps, Microservices, System Design, JVM.
-- 📧 Reach me @[Email](subhasis.it@gmail.com)
+- 📧 Reach me @[Email](subhasis03@gmail.com)
 - 🌐 Connect me on [LinkedIn](https://www.linkedin.com/in/subhasis-roy/)
 -->
 ---
